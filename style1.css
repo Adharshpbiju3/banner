@@ -31,4 +31,13 @@
     text-decoration: underline;
 }
 
+.banner-heading{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 50px;
+    color: rgb(39, 162, 39);
+    text-shadow: 2px 2px 4px rgb(37, 3, 3);
+}
+
  
